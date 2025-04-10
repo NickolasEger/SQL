@@ -1,0 +1,1 @@
+select Primeiro_Nome, Data_Admissao from Colaborador_Tarde order by Primeiro_Nome

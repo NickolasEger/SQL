@@ -1,0 +1,1 @@
+select salario from colaborador_tarde where Nr_Depto = 120

@@ -1,0 +1,1 @@
+create database EQUIPE_NICKOLASEGER

@@ -1,0 +1,1 @@
+select all Nr_Depto, Primeiro_Nome, Ultimo_Nome, Salario, Salario/12 from colaborador_tarde order by Primeiro_Nome
